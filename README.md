@@ -1,7 +1,7 @@
 # rtl_desighn_for_cosh
 
 
-![Screenshot 2025-04-17 174445](https://github.com/user-attachments/assets/0f9471e7-f56c-4795-a271-db43235d4d64)
+
 ![Screenshot 2025-04-19 001622](https://github.com/user-attachments/assets/1ee4ee73-b3c6-4ee8-922b-96548e32359c)
 ![Screenshot 2025-04-19 001638](https://github.com/user-attachments/assets/ba743824-f183-4b28-bd2d-2b0ad5fb5d5d)
 ![Screenshot 2025-04-19 001646](https://github.com/user-attachments/assets/d2409732-9a5f-445b-8ae6-554293ab75f7)
